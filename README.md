@@ -30,7 +30,7 @@ Housing_type: Type of housing (e.g., 'House / apartment', 'Rented apartment').
 Type_Occupation: Type of occupation or job.
 label: A label indicating a classification (e.g., 1, 2, 4).
 
- # conclusion 
+ # Conclusion 
  
  In the conclusion,Power BI Dashboard Project aims to provide valuable insights and data analysis based on a specific dataset, covering a wide range of factors such as gender, car ownership, property ownership, annual income, education, marital status, housing type, type of occupation, age, years of experience, family size, and individual classifications. This README has provided an overview of the project, its objectives, key features, and a glimpse of what the dashboard looks like.
 
