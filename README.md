@@ -1,6 +1,4 @@
-# Credit_card.Dashboard
-
-# Power BI Dashboard Project
+# Credit_card Power BI Dashboard Project
 
 # Introduction
 Welcome to the Power BI Dashboard Project! This repository contains a comprehensive Power BI dashboard designed to provide insightful visualizations and data analysis based on a specific dataset. The dashboard focuses on various aspects, including gender, car ownership, property ownership, annual income, education, marital status, housing type, type of occupation, age, years of experience, family size, and a label indicating an individual's classification.
